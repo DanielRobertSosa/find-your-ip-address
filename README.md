@@ -85,7 +85,8 @@ We’ll use **Command Prompt (cmd)** for this section.
 2. Then press Enter to execute the command.
 You’ll see a list of network adapters and their IP configuration details.
 
-<p align="center"> <img src="" height="80%" width="80%" alt="Running ipconfig Command Screenshot"/> </p>
+<img width="1536" height="1024" alt="step 3 B - run the command" src="https://github.com/user-attachments/assets/c47e50d3-b711-4c05-99e0-e31758956d09" />
+
    ---
 
 ### 🔍 📡 Step 3.3 — Identify Your Private IP Address
@@ -96,7 +97,7 @@ You’ll see a list of network adapters and their IP configuration details.
 
 3. The number next to IPv4 Address (e.g., 192.168.x.x or 10.x.x.x) is your Private IP Address.
 
-<p align="center"> <img src="" height="80%" width="80%" alt="IPv4 Private Address Output Screenshot"/> </p>
+<p align="center"> <img width="1536" height="1024" alt="step 3 C - IP address found" src="https://github.com/user-attachments/assets/5fa2e4f3-7eca-4426-afb8-c9b7889ede0b" />
 
 
 
