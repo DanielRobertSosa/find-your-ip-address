@@ -99,6 +99,17 @@ You’ll see a list of network adapters and their IP configuration details.
 
 <p align="center"> <img width="1536" height="1024" alt="step 3 C - IP address found" src="https://github.com/user-attachments/assets/5fa2e4f3-7eca-4426-afb8-c9b7889ede0b" />
 
+### 🌐 Step 4 — Finding Your Public IP Address (Windows)
+
+1. Using Command Line:
+
+Still in Command Prompt, type: curl ifconfig.me
+
+2. That’s your Public IP address.
+
+<p align="center"><img width="1024" height="1024" alt="step 4" src="https://github.com/user-attachments/assets/dc164b5e-dfea-4597-ae8d-9762e7a3a3e4" />
+
+
 
 
 
