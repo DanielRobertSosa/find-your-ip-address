@@ -1,6 +1,8 @@
 # 🧩 Find Your IP Address
 <p align="center">
-<img src="https://i.imgur.com/BzeSfFp.png" height="80%" width="80%" alt="Find Your IP Address Project Banner"/>
+<img width="721" height="449" alt="header" src="https://github.com/user-attachments/assets/a887cd03-e363-4af9-953f-26ac952b5df8" />
+
+
 </p>
 
 <h1>🔍 Introduction</h1>
