@@ -64,3 +64,40 @@ These are **network fundamentals** — every IT professional needs to know how t
 💡 **Note:**  
 Your home might have multiple devices, each with their own **private IP**, but they all share **one public IP** when accessing the internet.
 
+## 💻 Step 3 — Finding Your Private IP Address (Windows)
+
+We’ll use **Command Prompt (cmd)** for this section.
+
+---
+
+### 🪟 Step 3.1 — Open Command Prompt
+
+1. Press **Windows Key + R**  
+2. Type:
+   ```bash
+   cmd
+
+   ---
+
+### 🔍 Step 3.2 — Run the Command
+
+1. In the Command Prompt window, type:ipconfig
+2. Then press Enter to execute the command.
+You’ll see a list of network adapters and their IP configuration details.
+
+<p align="center"> <img src="" height="80%" width="80%" alt="Running ipconfig Command Screenshot"/> </p>
+   ---
+
+### 🔍 📡 Step 3.3 — Identify Your Private IP Address
+
+1. Look for your active network adapter, usually named:
+2. Wireless LAN adapter Wi-Fi:
+   IPv4 Address. . . . . . . . . . . : 192.168.1.12
+
+3. The number next to IPv4 Address (e.g., 192.168.x.x or 10.x.x.x) is your Private IP Address.
+
+<p align="center"> <img src="" height="80%" width="80%" alt="IPv4 Private Address Output Screenshot"/> </p>
+
+
+
+
